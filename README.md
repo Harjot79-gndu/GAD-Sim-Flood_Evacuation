@@ -1,5 +1,7 @@
 # GAD-Sim-Flood_Evacuation
 GAD-Sim: An Integrated GIS-ABDES Framework for Data-Driven Urban Flood Evacuation Modeling and Decision 
+Research Compendium for Manuscript Submission to Environmental Modelling and Software.
+
 ## Overview
 GAD-Sim (GIS-ABM-DES Simulator) is an integrated simulation framework for modeling and optimizing urban flood evacuation. The framework combines Geographic Information Systems (GIS), Agent-Based Modeling (ABM), and Discrete Event Simulation (DES) with machine learning techniques, including Long Short-Term Memory (LSTM) networks and Multi-Agent Reinforcement Learning (MARL).
 
@@ -23,7 +25,7 @@ It is designed to support decision-making in time-critical disaster scenarios by
 The provided code is configured to run on the Amritsar city area.
 
 ## To quick start : Clone the repository:
-git clone https://github.com/your-username/GAD-Sim.git
+git clone https://github.com/Harjot79-gndu/GAD-Sim-Flood_Evacuation.git
 cd GAD-Sim
 
 ## Install Dependencies 
