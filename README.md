@@ -22,6 +22,9 @@ It is designed to support decision-making in time-critical disaster scenarios by
 ## Case Study: Amritsar, India
 The provided code is configured to run on the Amritsar city area.
 
+## Install Dependencies 
+pip install -r requirements.txt
+
 ## Main Entry Point 
 app.py
 It controls 
