@@ -19,17 +19,6 @@ It is designed to support decision-making in time-critical disaster scenarios by
 
 ---
 
-## 🔷 Repository Structure
-GAD-Sim/
-│
-├── src/                 # Core simulation modules
-├── models/              # Trained LSTM / MARL models
-├── app/                 # Streamlit dashboard
-├── code/                # Experimental analysis
-├── results/             # Simulation outputs
-│
-├── config.yaml          # Simulation parameters
-├── app.py               # Main execution script
-├── requirements.txt     # Dependencies
-├── README.md
-└── LICENSE
+## Case Study: Amritsar, India
+The provided code is configured to run on the Amritsar city area.
+
