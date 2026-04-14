@@ -22,3 +22,10 @@ It is designed to support decision-making in time-critical disaster scenarios by
 ## Case Study: Amritsar, India
 The provided code is configured to run on the Amritsar city area.
 
+## Main Entry Point 
+app.py
+It controls 
+UI, simulation triggers, call model and visulization and display results
+
+It can be executed in terminal using :
+streamlit run app.py
