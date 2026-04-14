@@ -1,5 +1,5 @@
 # GAD-Sim-Flood_Evacuation
-GAD-Sim: An Integrated GIS-ABDES Framework for Data-Driven Urban Flood Evacuation Modelling and Decision 
+GAD-Sim: An Integrated GIS-ABDES Framework for Data-Driven Urban Flood Evacuation Modelling and Decision.
 Research Compendium for Manuscript Submission to Environmental Modelling and Software.
 
 ## Overview
