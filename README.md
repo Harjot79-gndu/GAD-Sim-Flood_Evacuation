@@ -33,8 +33,7 @@ pip install -r requirements.txt
 
 ## Main Entry Point 
 app.py
-It controls 
-UI, simulation triggers, call model and visulization and display results
+It controls UI, simulation triggers, call model and visualisation and display results
 
 It can be executed in terminal using :
 streamlit run app.py
