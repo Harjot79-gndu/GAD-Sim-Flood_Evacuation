@@ -1,0 +1,12 @@
+The following Python libraries are required to execute the GAD-Sim code.
+streamlit
+mesa
+osmnx
+networkx
+folium
+streamlit-folium
+geopandas
+rasterio
+shapely
+pandas
+numpy
