@@ -22,6 +22,10 @@ It is designed to support decision-making in time-critical disaster scenarios by
 ## Case Study: Amritsar, India
 The provided code is configured to run on the Amritsar city area.
 
+## To quick start : Clone the repository:
+git clone https://github.com/your-username/GAD-Sim.git
+cd GAD-Sim
+
 ## Install Dependencies 
 pip install -r requirements.txt
 
